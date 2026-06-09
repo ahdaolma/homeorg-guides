@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://your-site.vercel.app'),
+  metadataBase: new URL('https://homeorg-guides.vercel.app'),
   title: {
     default: 'Home Organization Guides | Expert Decluttering Tips & Ideas',
     template: '%s | HomeOrg Guides',

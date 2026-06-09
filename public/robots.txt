@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://your-site.vercel.app/sitemap.xml
+Sitemap: https://homeorg-guides.vercel.app/sitemap.xml
