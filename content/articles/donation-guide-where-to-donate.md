@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Where to Donate Everything Matters
+![Related image](https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&h=400&fit=crop)
 
 According to a 2025 survey by the National Association of Professional Organizers, 84% of general owners report feeling stressed by disorganization. The average person spends 31 minutes per day searching for items in their general - over 416 hours per year.
 
@@ -26,6 +27,7 @@ the Chen family organized entire home in 30 days.
 **Visible Storage:** Clear containers reduce duplicate purchasing by 28% (Cornell University).
 
 ## Step-by-Step Process
+![Related image](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=400&fit=crop)
 ### Step 1: Empty Everything (45-90 min)
 Remove all items. Professionals find 18 forgotten items per session on average.
 

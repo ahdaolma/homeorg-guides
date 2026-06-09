@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Fireplace Mantel Organization Matters
+![Related image](https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=400&fit=crop)
 
 According to a 2025 survey by the National Association of Professional Organizers, 70% of living room owners report feeling stressed by disorganization. The average person spends 18 minutes per day searching for items in their living room - over 318 hours per year.
 
@@ -26,6 +27,7 @@ the Thompsons reclaimed living room from toys in 5 minutes.
 **Visible Storage:** Clear containers reduce duplicate purchasing by 28% (Cornell University).
 
 ## Step-by-Step Process
+![Related image](https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=400&fit=crop)
 ### Step 1: Empty Everything (45-90 min)
 Remove all items. Professionals find 9 forgotten items per session on average.
 

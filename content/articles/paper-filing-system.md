@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Paper Filing System Matters
+![Related image](https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&h=400&fit=crop)
 
 According to a 2025 survey by the National Association of Professional Organizers, 84% of home office owners report feeling stressed by disorganization. The average person spends 23 minutes per day searching for items in their home office - over 517 hours per year.
 
@@ -26,6 +27,7 @@ David, developer increased billable hours by 15 percent.
 **Visible Storage:** Clear containers reduce duplicate purchasing by 28% (Cornell University).
 
 ## Step-by-Step Process
+![Related image](https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&h=400&fit=crop)
 ### Step 1: Empty Everything (45-90 min)
 Remove all items. Professionals find 13 forgotten items per session on average.
 

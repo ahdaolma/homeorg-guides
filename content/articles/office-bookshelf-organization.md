@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Bookshelf Organization for Home Offices Matters
+![Related image](https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=400&fit=crop)
 
 According to a 2025 survey by the National Association of Professional Organizers, 60% of home office owners report feeling stressed by disorganization. The average person spends 19 minutes per day searching for items in their home office - over 205 hours per year.
 
@@ -26,6 +27,7 @@ David, developer increased billable hours by 15 percent.
 **Visible Storage:** Clear containers reduce duplicate purchasing by 28% (Cornell University).
 
 ## Step-by-Step Process
+![Related image](https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&h=400&fit=crop)
 ### Step 1: Empty Everything (45-90 min)
 Remove all items. Professionals find 20 forgotten items per session on average.
 
