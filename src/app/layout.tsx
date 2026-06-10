@@ -1,5 +1,6 @@
 ﻿import type { Metadata } from "next";
 import "./globals.css";
+import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://homeorg-guides.vercel.app"),
@@ -27,6 +28,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/articles" className="text-slate-400 hover:text-blue-400 transition-colors">Guides</a>
               <a href="/#rooms" className="text-slate-400 hover:text-blue-400 transition-colors">Rooms</a>
             </nav>
+            <SearchBar placeholder="Search organization..." className="w-44" />
           </div>
         </header>
         <main className="flex-1">{children}</main>
@@ -46,3 +48,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+
