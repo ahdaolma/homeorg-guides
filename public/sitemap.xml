@@ -1,656 +1,656 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://homeorg-guides.vercel.app</loc>
+    <loc>https://example.com</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles</loc>
+    <loc>https://example.com/articles</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"closet"</loc>
+    <loc>https://example.com/category/"closet"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"living-room"</loc>
+    <loc>https://example.com/category/"living-room"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"kitchen"</loc>
+    <loc>https://example.com/category/"kitchen"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"bathroom"</loc>
+    <loc>https://example.com/category/"bathroom"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"bedroom"</loc>
+    <loc>https://example.com/category/"bedroom"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"garage"</loc>
+    <loc>https://example.com/category/"garage"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"home-office"</loc>
+    <loc>https://example.com/category/"home-office"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"general"</loc>
+    <loc>https://example.com/category/"general"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/category/"laundry"</loc>
+    <loc>https://example.com/category/"laundry"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/accessories-organization</loc>
+    <loc>https://example.com/articles/accessories-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/apartment-living-room</loc>
+    <loc>https://example.com/articles/apartment-living-room</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/baking-supply-organization</loc>
+    <loc>https://example.com/articles/baking-supply-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/bathroom-counter-clutter</loc>
+    <loc>https://example.com/articles/bathroom-counter-clutter</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/bathroom-towel-storage</loc>
+    <loc>https://example.com/articles/bathroom-towel-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/bathroom-vanity-organization</loc>
+    <loc>https://example.com/articles/bathroom-vanity-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/bedroom-clutter-hotspots</loc>
+    <loc>https://example.com/articles/bedroom-clutter-hotspots</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/board-game-storage-ideas</loc>
+    <loc>https://example.com/articles/board-game-storage-ideas</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/bookshelf-styling-organization</loc>
+    <loc>https://example.com/articles/bookshelf-styling-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/car-care-supplies-storage</loc>
+    <loc>https://example.com/articles/car-care-supplies-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/cleaning-supply-organization</loc>
+    <loc>https://example.com/articles/cleaning-supply-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/closet-organization-system</loc>
+    <loc>https://example.com/articles/closet-organization-system</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/closet-products-review</loc>
+    <loc>https://example.com/articles/closet-products-review</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/closet-purge-guide</loc>
+    <loc>https://example.com/articles/closet-purge-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/coat-closet-organization</loc>
+    <loc>https://example.com/articles/coat-closet-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/coffee-table-organization</loc>
+    <loc>https://example.com/articles/coffee-table-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/corner-cabinet-solutions</loc>
+    <loc>https://example.com/articles/corner-cabinet-solutions</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/declutter-small-kitchen-hacks</loc>
+    <loc>https://example.com/articles/declutter-small-kitchen-hacks</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/decluttering-checklist-printable</loc>
+    <loc>https://example.com/articles/decluttering-checklist-printable</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/desk-cable-management</loc>
+    <loc>https://example.com/articles/desk-cable-management</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/desk-drawer-organization</loc>
+    <loc>https://example.com/articles/desk-drawer-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/digital-file-organization</loc>
+    <loc>https://example.com/articles/digital-file-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/diy-garage-shelving</loc>
+    <loc>https://example.com/articles/diy-garage-shelving</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/donation-guide-where-to-donate</loc>
+    <loc>https://example.com/articles/donation-guide-where-to-donate</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/dorm-room-organization</loc>
+    <loc>https://example.com/articles/dorm-room-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/dresser-drawer-organization</loc>
+    <loc>https://example.com/articles/dresser-drawer-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/dual-monitor-desk-setup</loc>
+    <loc>https://example.com/articles/dual-monitor-desk-setup</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/entryway-mudroom-organization</loc>
+    <loc>https://example.com/articles/entryway-mudroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/fireplace-mantel-organization</loc>
+    <loc>https://example.com/articles/fireplace-mantel-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garage-cabinets-vs-shelving</loc>
+    <loc>https://example.com/articles/garage-cabinets-vs-shelving</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garage-ceiling-storage</loc>
+    <loc>https://example.com/articles/garage-ceiling-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garage-chemical-safety</loc>
+    <loc>https://example.com/articles/garage-chemical-safety</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garage-floor-coating-guide</loc>
+    <loc>https://example.com/articles/garage-floor-coating-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garage-monthly-plan</loc>
+    <loc>https://example.com/articles/garage-monthly-plan</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garage-organization-systems</loc>
+    <loc>https://example.com/articles/garage-organization-systems</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/garden-tool-organization</loc>
+    <loc>https://example.com/articles/garden-tool-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/guest-bedroom-organization</loc>
+    <loc>https://example.com/articles/guest-bedroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/handbag-purse-storage</loc>
+    <loc>https://example.com/articles/handbag-purse-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/holiday-decoration-storage</loc>
+    <loc>https://example.com/articles/holiday-decoration-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/home-office-organization</loc>
+    <loc>https://example.com/articles/home-office-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/indoor-plant-organization</loc>
+    <loc>https://example.com/articles/indoor-plant-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/jewelry-organization-ideas</loc>
+    <loc>https://example.com/articles/jewelry-organization-ideas</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kids-bathroom-organization</loc>
+    <loc>https://example.com/articles/kids-bathroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kids-bedroom-organization</loc>
+    <loc>https://example.com/articles/kids-bedroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kids-closet-morning-routine</loc>
+    <loc>https://example.com/articles/kids-closet-morning-routine</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kitchen-cabinet-organization</loc>
+    <loc>https://example.com/articles/kitchen-cabinet-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kitchen-counter-clutter-solutions</loc>
+    <loc>https://example.com/articles/kitchen-counter-clutter-solutions</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kitchen-island-storage</loc>
+    <loc>https://example.com/articles/kitchen-island-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kitchen-junk-drawer-solution</loc>
+    <loc>https://example.com/articles/kitchen-junk-drawer-solution</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/kitchen-organization-mistakes</loc>
+    <loc>https://example.com/articles/kitchen-organization-mistakes</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/label-maker-system</loc>
+    <loc>https://example.com/articles/label-maker-system</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/laundry-room-organization</loc>
+    <loc>https://example.com/articles/laundry-room-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/linen-closet-organization</loc>
+    <loc>https://example.com/articles/linen-closet-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/living-room-clutter-zones</loc>
+    <loc>https://example.com/articles/living-room-clutter-zones</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/living-room-kid-zone</loc>
+    <loc>https://example.com/articles/living-room-kid-zone</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/living-room-organization</loc>
+    <loc>https://example.com/articles/living-room-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/makeup-organization-bathroom</loc>
+    <loc>https://example.com/articles/makeup-organization-bathroom</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/media-console-organization</loc>
+    <loc>https://example.com/articles/media-console-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/medicine-cabinet-organization</loc>
+    <loc>https://example.com/articles/medicine-cabinet-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/minimalist-kitchen-organization</loc>
+    <loc>https://example.com/articles/minimalist-kitchen-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/moving-organization-timeline</loc>
+    <loc>https://example.com/articles/moving-organization-timeline</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/nightstand-organization</loc>
+    <loc>https://example.com/articles/nightstand-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/office-bookshelf-organization</loc>
+    <loc>https://example.com/articles/office-bookshelf-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/office-supply-inventory</loc>
+    <loc>https://example.com/articles/office-supply-inventory</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/open-shelving-kitchen-organization</loc>
+    <loc>https://example.com/articles/open-shelving-kitchen-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/organize-kitchen-drawers</loc>
+    <loc>https://example.com/articles/organize-kitchen-drawers</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/pantry-organization-ideas-budget</loc>
+    <loc>https://example.com/articles/pantry-organization-ideas-budget</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/paper-filing-system</loc>
+    <loc>https://example.com/articles/paper-filing-system</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/pet-supplies-organization</loc>
+    <loc>https://example.com/articles/pet-supplies-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/pot-pan-storage-ideas</loc>
+    <loc>https://example.com/articles/pot-pan-storage-ideas</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/reach-in-closet-maximizing</loc>
+    <loc>https://example.com/articles/reach-in-closet-maximizing</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/refrigerator-organization-zones</loc>
+    <loc>https://example.com/articles/refrigerator-organization-zones</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/rental-apartment-organization</loc>
+    <loc>https://example.com/articles/rental-apartment-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/seasonal-clothing-storage</loc>
+    <loc>https://example.com/articles/seasonal-clothing-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/shared-bathroom-organization</loc>
+    <loc>https://example.com/articles/shared-bathroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/shoe-organization-solutions</loc>
+    <loc>https://example.com/articles/shoe-organization-solutions</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/shower-organization-caddy</loc>
+    <loc>https://example.com/articles/shower-organization-caddy</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/small-appliance-storage</loc>
+    <loc>https://example.com/articles/small-appliance-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/small-bathroom-organization</loc>
+    <loc>https://example.com/articles/small-bathroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/small-bedroom-organization</loc>
+    <loc>https://example.com/articles/small-bedroom-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/small-closet-hacks</loc>
+    <loc>https://example.com/articles/small-closet-hacks</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/small-home-office-setup</loc>
+    <loc>https://example.com/articles/small-home-office-setup</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/spice-organization-ideas</loc>
+    <loc>https://example.com/articles/spice-organization-ideas</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/sports-equipment-garage</loc>
+    <loc>https://example.com/articles/sports-equipment-garage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/spring-cleaning-organization</loc>
+    <loc>https://example.com/articles/spring-cleaning-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/standing-desk-organization</loc>
+    <loc>https://example.com/articles/standing-desk-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/storage-ottoman-organization</loc>
+    <loc>https://example.com/articles/storage-ottoman-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/storage-unit-organization</loc>
+    <loc>https://example.com/articles/storage-unit-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/throw-blanket-storage</loc>
+    <loc>https://example.com/articles/throw-blanket-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/tool-organization-compared</loc>
+    <loc>https://example.com/articles/tool-organization-compared</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/toy-storage-living-room</loc>
+    <loc>https://example.com/articles/toy-storage-living-room</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/tupperware-organization</loc>
+    <loc>https://example.com/articles/tupperware-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/two-car-garage-layout</loc>
+    <loc>https://example.com/articles/two-car-garage-layout</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/under-bed-storage-ideas</loc>
+    <loc>https://example.com/articles/under-bed-storage-ideas</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/under-sink-organization</loc>
+    <loc>https://example.com/articles/under-sink-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/vinyl-record-storage</loc>
+    <loc>https://example.com/articles/vinyl-record-storage</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/walk-in-closet-organization</loc>
+    <loc>https://example.com/articles/walk-in-closet-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/wall-storage-systems-compared</loc>
+    <loc>https://example.com/articles/wall-storage-systems-compared</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/whole-home-organization-plan</loc>
+    <loc>https://example.com/articles/whole-home-organization-plan</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://homeorg-guides.vercel.app/articles/workbench-organization</loc>
+    <loc>https://example.com/articles/workbench-organization</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
