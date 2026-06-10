@@ -13,11 +13,17 @@ keywords:
 
 ## The Average Desk Has 8 Visible Cables. A Clean Desk Has Zero.
 
+![The Average Desk Has 8 Visible Cables. A Clean Desk Has Zero.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 Monitor power, monitor HDMI/DisplayPort, laptop charger, phone charger, desk lamp, external hard drive, USB hub, speaker cable. Eight cables minimum. On the desk: a tangle. Under the desk: a spiderweb dangling from the power strip. Both are visual noise that subconsciously signals "disorganized workspace" every time you sit down. The fix costs $30 and takes 30 minutes.
 
 ---
 
 ## Step 1: Mount the Power Strip Under the Desk (5 Minutes)
+
+![Step 1: Mount the Power Strip Under the Desk (5 Minutes)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 A power strip on the floor collects dust, gets kicked, and pulls cables taut. Move it under the desk. Two options:
 
@@ -29,6 +35,9 @@ The power strip should be mounted at the BACK of the desk, near the edge, where 
 ---
 
 ## Step 2: The Under-Desk Cable Tray (10 Minutes)
+
+![Step 2: The Under-Desk Cable Tray (10 Minutes)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 A metal tray ($20, Ikea Signum or Amazon Basics under-desk cable tray) screws into the underside of the desk. All cables, power bricks, and excess wire length go INTO the tray. The tray is 2-3 inches deep and 16-20 inches wide — enough for a power strip, 2-3 power bricks, and coiled excess cable from every device.
 

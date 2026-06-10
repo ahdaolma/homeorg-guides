@@ -12,11 +12,17 @@ keywords:
 
 ## The Mantel Is Not a Shelf
 
+![The Mantel Is Not a Shelf](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 A shelf holds things. A mantel frames the fireplace and anchors the entire room. The distinction matters because the organizing principle is different: a shelf is organized by category (books with books, objects with objects). A mantel is organized by visual weight and balance — it's a composition, not storage. The rule: 5 items maximum, anchored by one large statement piece.
 
 ---
 
 ## The Anchor-and-Asymmetry Method
+
+![The Anchor-and-Asymmetry Method](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 **Step 1 — The anchor:** One large, visually heavy item positioned slightly off-center. This is the star of the composition. Options: a large round mirror (36-inch diameter, $80-$150, HomeGoods or IKEA Stockholm), a large piece of art (24x36 inches, framed), or a flat-screen TV if this is a TV-over-fireplace setup (controversial but common — the TV is the anchor by default).
 
@@ -29,6 +35,9 @@ A shelf holds things. A mantel frames the fireplace and anchors the entire room.
 ---
 
 ## Seasonal Rotation (Not Accumulation)
+
+![Seasonal Rotation (Not Accumulation)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 The mantel rotates 4 times per year with the seasons. The anchor stays (mirror or art is permanent). The flanking pair and trailing object swap for seasonal items: spring (dried flowers, pastel candles), summer (driftwood, seashell bowl, green plants), fall (pumpkins, warm-toned candles, dried wheat), winter/holiday (evergreen garland, white candles, metallic accents). Rotation prevents accumulation — each season's items return to a labeled seasonal decor bin.
 

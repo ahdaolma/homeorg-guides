@@ -12,11 +12,17 @@ keywords:
 
 ## Your Garage Hits 130°F in August. That's a Chemical Bomb.
 
+![Your Garage Hits 130°F in August. That's a Chemical Bomb.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 The interior of an attached garage in summer can reach 120-140°F — hot enough to rupture aerosol cans, vaporize flammable solvents, and degrade the active ingredients in pesticides and herbicides. The EPA and NFPA (National Fire Protection Association) have specific guidelines for residential chemical storage that most homeowners violate, creating a box of chemical hazards 20 feet from where they sleep.
 
 ---
 
 ## The 3 Rules of Garage Chemical Storage
+
+![The 3 Rules of Garage Chemical Storage](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 **Rule 1 — Temperature matters.** Most household chemicals have a maximum storage temperature of 90-120°F, printed on the label. Aerosol cans (spray paint, WD-40, brake cleaner) can rupture above 120°F. Gasoline vapors can ignite at 495°F (autoignition temperature), but a spark near a leaking gas can in a 130°F garage is a different hazard — the vapor pressure inside the can increases with temperature, causing the can to vent flammable vapors. If your garage regularly exceeds 100°F in summer, store flammable chemicals in a detached shed or basement where temperatures stay below 85°F.
 
@@ -27,6 +33,9 @@ The interior of an attached garage in summer can reach 120-140°F — hot enough
 ---
 
 ## What Can Stay in the Garage Year-Round vs. What Must Be Climate-Controlled
+
+![What Can Stay in the Garage Year-Round vs. What Must Be Climate-Controlled](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 **Safe in a freezing garage (below 32°F):** Motor oil, antifreeze (ethylene glycol freezes at -34°F), windshield washer fluid (freezing point varies — winter formula freezes at -20°F or lower), solid fertilizers, unopened spackle/drywall compound (freezing ruins it), solid pesticides/herbicides.
 

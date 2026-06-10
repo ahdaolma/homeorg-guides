@@ -12,11 +12,17 @@ keywords:
 
 ## Plant Hoarding Is Not Plant Styling
 
+![Plant Hoarding Is Not Plant Styling](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The line between "urban jungle" and "plant hoarding" is intentionality. 17 plants scattered on every available windowsill, shelf, and floor corner reads as clutter. The same 17 plants in 3-4 curated clusters reads as design. The difference: grouping by light needs and visual mass, not by wherever there was an empty surface.
 
 ---
 
 ## Group Plants by Light Needs, Not by Room
+
+![Group Plants by Light Needs, Not by Room](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **Full-sun group (south-facing window, 6+ hours direct light):** Cacti, succulents, fiddle leaf fig, bird of paradise, citrus trees. These plants cluster at the brightest window in the house. Use a plant stand with tiers ($30, bamboo 3-tier) to create vertical height — the tallest plant at the back, descending to smallest at the front. All plants receive light; none are shaded by neighbors.
 

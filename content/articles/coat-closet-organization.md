@@ -12,11 +12,17 @@ keywords:
 
 ## The Coat Closet Is Not Just for Coats
 
+![The Coat Closet Is Not Just for Coats](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The average family's coat closet holds: 12 coats (only 4 worn this season), 8 pairs of shoes (on the floor in a pile), 3 umbrellas, vacuum cleaner, shopping bags, gift wrap, and a board game from 2019. This is a failure of function, not space. A well-organized coat closet has three zones, and coats occupy only 40% of it.
 
 ---
 
 ## Zone A: The Hanging Rod — Coats and Everyday Outerwear
+
+![Zone A: The Hanging Rod — Coats and Everyday Outerwear](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 **The seasonal rotation:** Only THIS SEASON'S coats hang on the rod. In October, winter coats come out of storage and spring jackets go in. In April, the reverse. A coat closet with 12 coats is a closet that's storing 8 coats that won't be worn for 6 months. Off-season coats belong in vacuum-sealed bags in a storage bin labeled "Winter Coats" or "Spring Jackets" on a high shelf or in under-bed storage.
 
@@ -27,6 +33,9 @@ The average family's coat closet holds: 12 coats (only 4 worn this season), 8 pa
 ---
 
 ## Zone B: The Floor — Shoes and Heavy Items
+
+![Zone B: The Floor — Shoes and Heavy Items](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 **Two-tier shoe rack ($15-$30):** Fits on the floor of even a narrow 24-inch coat closet. Holds 8-12 pairs of daily shoes (not ALL shoes — just the ones you wear to leave the house). Boots on the bottom tier (taller), shoes on the top tier. Wet shoes go on a boot tray ($10, Rubbermaid or Target) next to the rack — the tray contains water and mud, protecting the closet floor.
 

@@ -12,11 +12,17 @@ keywords:
 
 ## One Bathroom, Three Kids, Seven Minutes to Get Ready
 
+![One Bathroom, Three Kids, Seven Minutes to Get Ready](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The family bathroom is a war zone between 7:00 and 7:30 AM. The fix isn't a bigger bathroom — it's a system where each child has their OWN color-coded zone, everything is at their height, and the morning routine is visual. Here's the setup.
 
 ---
 
 ## Color-Code Each Child
+
+![Color-Code Each Child](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 Assign each child a color: blue, green, pink, purple. Every item in their bathroom zone is that color: toothbrush (blue), cup (blue), towel (blue), washcloth (blue), bath toy bin (blue), caddy basket (blue). This eliminates the "THAT'S MY TOOTHBRUSH" argument permanently — there is zero ambiguity. The color system also makes it trivially easy for young children to identify and return their items.
 

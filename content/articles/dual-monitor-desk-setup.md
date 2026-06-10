@@ -12,11 +12,17 @@ keywords:
 
 ## Two Monitors, One Neck Injury — Why Positioning Matters
 
+![Two Monitors, One Neck Injury — Why Positioning Matters](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 A University of Utah study (2020) found that dual monitor users are 33% more productive for tasks involving multiple reference documents. But improper monitor positioning causes 2.3x more neck strain. The most common error: placing both monitors side-by-side with the bezels meeting in the center — this forces you to turn your head 20-30 degrees to read the center of either screen. Over an 8-hour day, that's thousands of micro-rotations that add up to chronic neck pain.
 
 ---
 
 ## The Correct Dual Monitor Setup
+
+![The Correct Dual Monitor Setup](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 **Primary monitor:** Directly in front of you. The top of the screen at or slightly below eye level (your eyes should align with the top 1/3 of the screen when sitting upright). Distance: arm's length (20-28 inches from your eyes). This is your main work screen — the one you look at 70% of the time.
 
@@ -27,6 +33,9 @@ A University of Utah study (2020) found that dual monitor users are 33% more pro
 ---
 
 ## The 20-20-20 Rule for Eye Strain
+
+![The 20-20-20 Rule for Eye Strain](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 Every 20 minutes, look at something 20 feet away for 20 seconds. This relaxes the ciliary muscles that contract to focus on close objects. A free app (BreakTimer, for Windows/Mac) reminds you. Eye strain from monitors is temporary muscle fatigue — it doesn't cause permanent damage, but it causes headaches and reduced productivity. The 20-20-20 rule prevents it.
 

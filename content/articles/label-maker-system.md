@@ -12,11 +12,17 @@ keywords:
 
 ## If It's Not Labeled, It's Not Organized — It's Guessed
 
+![If It's Not Labeled, It's Not Organized — It's Guessed](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 Unlabeled bins require memory. "Which bin has the winter scarves?" "Is this the Christmas or Halloween decoration box?" Labels convert organizational systems from personal-knowledge-dependent to universally accessible. A house guest can find a coffee mug if the cabinet is labeled. A label maker ($25, Brother P-touch PT-D210 or Dymo LetraTag) is the single highest-ROI organization tool.
 
 ---
 
 ## The 5 Essential Label Types
+
+![The 5 Essential Label Types](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **1. Category Labels (bins, baskets, shelves):** "Winter Accessories," "Christmas — Ornaments," "Backup Toiletries," "Kids — Art Supplies." White tape, black text, 1/2-inch wide. Largest font that fits the label tape. These go on the FRONT of the bin, visible when the bin is on the shelf. The label answers: "What's in here?"
 

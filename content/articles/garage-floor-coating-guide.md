@@ -18,6 +18,9 @@ The difference between a failed garage floor coating and a permanent one is 98% 
 
 ## The 3 Coating Options
 
+![The 3 Coating Options](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 **1. Concrete floor paint ($30-$50/gallon):** Acrylic or latex paint. Covers 300-400 sq ft per gallon. Lasts 1-3 years before peeling, even with proper prep. This is a temporary cosmetic fix — like painting over rust on a car. Acceptable for a garage you'll sell in 2 years. Not acceptable for a permanent floor.
 
 **2. DIY epoxy kit ($100-$200 for a 2-car garage):** Two-part epoxy (resin + hardener mixed before application). Rust-Oleum EpoxyShield ($120 for a 2.5-car kit) or Sherwin-Williams ArmorSeal ($150). Lasts 5-10 years with proper prep. This is the sweet spot for DIY — professional-grade durability at 1/5 the cost. The kits include decorative color chips ($10 value) to hide imperfections and provide slip resistance.

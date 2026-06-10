@@ -13,6 +13,9 @@ keywords:
 
 ## The Chairdrobe: Why Every Bedroom Has "The Chair"
 
+![The Chairdrobe: Why Every Bedroom Has "The Chair"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The bedroom chair (or exercise bike, or floor pile) that accumulates "not dirty enough for the hamper, not clean enough for the closet" clothes is a universal phenomenon. Psychologists call it "clothing purgatory" — items in a transitional state between clean and dirty. The solution is not willpower. It's a designated transitional storage system.
 
 **The valet hook solution ($15):** Install 3-4 hooks on the wall or the back of the bedroom door. One hook = one outfit's worth of "worn but wearable" clothes (jeans + shirt). The hooks make the transition state VISIBLE and LEGITIMATE. When hooks are full (3-4 outfits), it's laundry day — those clothes have been worn and are now dirty. The chair becomes a chair again. Command hooks ($8 for 6) if you're renting; screw-in hooks ($5 for 4 at Home Depot) if you own.
@@ -23,6 +26,9 @@ The bedroom chair (or exercise bike, or floor pile) that accumulates "not dirty 
 
 ## The Nightstand: 1 Square Foot That Defines Your Morning
 
+![The Nightstand: 1 Square Foot That Defines Your Morning](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
+
 The average nightstand holds: phone, charger, water glass, book, lamp, remote, tissues, hand lotion, earplugs, medication, and yesterday's tea mug. That's 11 items on a 12x16-inch surface. The nightstand should hold 3 items maximum: lamp, phone (on charger), and one water glass. Everything else goes IN the nightstand, not ON it.
 
 **Nightstand drawer organizer ($10):** A small divided tray (3 compartments) separates: charging cables + earbuds (one section), nighttime essentials — lip balm, hand lotion, sleep mask (second section), and medications/supplements (third section). The tray keeps everything findable in the dark. No more knocking over a stack of books reaching for your glasses.
@@ -32,6 +38,9 @@ The average nightstand holds: phone, charger, water glass, book, lamp, remote, t
 ---
 
 ## The Floor Beside the Bed: The "Drop Zone"
+
+![The Floor Beside the Bed: The "Drop Zone"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 The 2-foot strip between the bed and the wall or nightstand is where: slippers, yesterday's socks, a book, and the phone charger live on the floor. This zone needs a home that isn't the floor.
 

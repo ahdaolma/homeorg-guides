@@ -12,11 +12,17 @@ keywords:
 
 ## The "I'll Donate This Someday" Bag That's Been in Your Trunk for 6 Months
 
+![The "I'll Donate This Someday" Bag That's Been in Your Trunk for 6 Months](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 Knowing WHERE to donate is the biggest barrier to actually donating. This directory covers every common category of household item, the best organization to receive it, whether they offer free pickup, and whether the donation is tax-deductible. All organizations listed are 501(c)(3) nonprofits — donations are tax-deductible to the extent allowed by law.
 
 ---
 
 ## Clothing and Textiles
+
+![Clothing and Textiles](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 - **Everyday clothing (all genders, all ages):** Goodwill or Salvation Army. Both accept walk-in donations at retail locations. Goodwill's website has a donation value guide (goodwill.org/donate). No pickup. Tax-deductible.
 - **Women's professional clothing (suits, blouses, dress shoes):** Dress for Success (dressforsuccess.org). 150+ locations worldwide. Provides interview outfits and career coaching to low-income women. No pickup. Tax-deductible.
@@ -28,6 +34,9 @@ Knowing WHERE to donate is the biggest barrier to actually donating. This direct
 ---
 
 ## Furniture and Large Items
+
+![Furniture and Large Items](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 - **Furniture in good condition:** Habitat for Humanity ReStore (habitat.org/restore). 900+ locations. Accepts: furniture, appliances, building materials, lighting. FREE PICKUP for large items — schedule online or by phone. Tax-deductible. This is the best single option for furniture donation — they pick up, the items fund affordable housing, and it's fully tax-deductible.
 - **Mattresses:** Difficult to donate (sanitary regulations). Some ReStore locations accept new/lightly used mattresses — call first. The Furniture Bank Association of North America (furniturebanks.org) has 100+ member locations that provide furniture to families transitioning out of homelessness — some accept mattresses. If no local options, 1-800-GOT-JUNK ($100-$200 for mattress removal) or municipal bulk trash pickup (typically 1-2 free pickups per year).

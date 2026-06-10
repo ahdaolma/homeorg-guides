@@ -13,11 +13,17 @@ keywords:
 
 ## A Full Bookshelf Looks Cluttered. An Empty One Looks Sad. The Middle Ground Is Math.
 
+![A Full Bookshelf Looks Cluttered. An Empty One Looks Sad. The Middle Ground Is Math.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 Interior designers use the 60-30-10 rule for shelf styling: 60% books, 30% decorative objects (vases, sculptures, framed photos, plants), 10% empty space. Empty space — also called "visual breathing room" — is the difference between a styled shelf and a shelf that looks like a storage unit.
 
 ---
 
 ## The 60%: Book Arrangement
+
+![The 60%: Book Arrangement](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 **Three ways to arrange books, from easiest to most stylized:**
 
@@ -32,6 +38,9 @@ Interior designers use the 60-30-10 rule for shelf styling: 60% books, 30% decor
 ---
 
 ## The 30%: Decorative Objects
+
+![The 30%: Decorative Objects](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 Mix heights, textures, and materials:
 - **Vertical objects:** A tall vase, a candlestick, a slim sculpture. These break the horizontal lines of book rows.

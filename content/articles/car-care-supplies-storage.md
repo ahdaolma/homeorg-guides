@@ -12,11 +12,17 @@ keywords:
 
 ## Car Care Products Belong in the Garage, Not Under the Kitchen Sink
 
+![Car Care Products Belong in the Garage, Not Under the Kitchen Sink](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The average car owner has: car wash soap, wheel cleaner, glass cleaner, microfiber towels (15-20 of them), wax/polish, tire shine, interior detailer, leather conditioner, an air compressor hose, jumper cables, and a bag of random microfiber mitts. These items end up in three different places: under the kitchen sink (cleaners), laundry room (towels), and garage floor (everything else). Consolidating into one station saves 10 minutes of gathering supplies every time you wash the car.
 
 ---
 
 ## The Wall-Mounted Car Care Station
+
+![The Wall-Mounted Car Care Station](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 A 4x4-foot wall section in the garage, organized in three tiers:
 
@@ -31,6 +37,9 @@ A 4x4-foot wall section in the garage, organized in three tiers:
 ---
 
 ## The Mobile Detailing Caddy
+
+![The Mobile Detailing Caddy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 A three-tier rolling cart ($30, Ikea Raskog or similar utility cart) that holds everything for a single car wash session. Load the cart with: wash soap, wheel cleaner, glass cleaner, microfiber towels (separated by use), wash mitt, tire brush, and drying towel. Roll the cart to the driveway, wash the car, roll it back. Everything lives on the cart, not scattered across the garage floor or driveway. After washing, restock the cart from the wall station — restocking takes 2 minutes and ensures the cart is always ready for the next wash.
 

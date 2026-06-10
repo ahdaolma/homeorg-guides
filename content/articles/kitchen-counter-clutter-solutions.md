@@ -12,11 +12,17 @@ keywords:
 
 ## The Average Kitchen Counter Holds 23 Items. You Use 7 Daily.
 
+![The Average Kitchen Counter Holds 23 Items. You Use 7 Daily.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 Kitchen counters accumulate items through a law of horizontal-surface physics: any flat surface in a high-traffic area will collect objects until it's full. The counter becomes a museum of small appliances, mail stacks, fruit bowls, and "I'll put this away later" items. The fix: the appliance audit, the daily reset, and a permanent home for the three counter-killer categories.
 
 ---
 
 ## The Appliance Audit
+
+![The Appliance Audit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 Remove every appliance from the counter. For two weeks, only bring an appliance back when you use it. After two weeks, any appliance still in the cabinet gets stored there permanently (or donated if unused for 6+ months). The typical outcome: toaster (daily) + coffee maker (daily) stay. The blender (3x/week) may earn counter space or go to an easy-access lower cabinet. The stand mixer (2x/month) goes to a cabinet. The panini press (unused since 2019) goes to donation. The average kitchen reclaims 4-6 square feet of counter space — the equivalent of adding a small island.
 

@@ -12,11 +12,17 @@ keywords:
 
 ## You Have 14 Towels. You Need 8. The Rest Are Creating Chaos.
 
+![You Have 14 Towels. You Need 8. The Rest Are Creating Chaos.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The 3-set rule: 3 sets of sheets per bed (one on the bed, one in the wash, one in the closet). 3-4 towels per person (one in use, one in the wash, 1-2 in the closet). 2-3 hand towels and washcloths per bathroom. Anything beyond these limits is consuming shelf space without providing utility. The surplus towels from 2014, the fitted sheet for a mattress size you no longer own, the pillowcases that don't match any sheet set — donate to an animal shelter (they ALWAYS need towels) or textile recycling (H&M — any brand, any condition).
 
 ---
 
 ## Shelf Dividers + Vertical Folding
+
+![Shelf Dividers + Vertical Folding](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 Clear acrylic shelf dividers ($15 for 6, Lynk Professional) slide onto linen closet shelves, creating vertical compartments. Each compartment holds one category: bath towels (2 compartments), hand towels (1), washcloths (1), bed sheets (1 per bed). Without dividers, a stack of 8 towels collapses into an avalanche. With dividers, each stack is self-supporting. The divider is the difference between a linen closet you dread opening and one you can grab from with one hand without looking.
 

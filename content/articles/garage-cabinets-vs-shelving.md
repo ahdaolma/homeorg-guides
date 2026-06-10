@@ -12,11 +12,17 @@ keywords:
 
 ## Open Shelves Show Everything. Cabinets Hide Everything. Your Garage Needs Both.
 
+![Open Shelves Show Everything. Cabinets Hide Everything. Your Garage Needs Both.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 The garage stores three types of items: (1) things you want to see and grab quickly (tools, sports equipment, frequently used supplies), (2) things you want protected from dust, pests, and visibility (chemicals, paint, seasonal decor), and (3) things that are large, awkward, and don't fit anywhere else (lawn mower, snow blower, ladders). Open shelving handles category 1. Cabinets handle category 2. Wall hooks and floor space handle category 3.
 
 ---
 
 ## Open Shelving: When Visibility Matters
+
+![Open Shelving: When Visibility Matters](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 **Best for:** Tools, frequently accessed hardware, sports equipment, car care supplies, recycling bins, kids' outdoor toys. Anything you grab weekly.
 
@@ -31,6 +37,9 @@ The garage stores three types of items: (1) things you want to see and grab quic
 ---
 
 ## Cabinets: When Hidden Storage Matters
+
+![Cabinets: When Hidden Storage Matters](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 **Best for:** Paint, chemicals, automotive fluids, pesticides, seasonal decor, camping gear, anything you want behind a locked door.
 

@@ -12,11 +12,17 @@ keywords:
 
 ## You Spend More Time Untangling Lights Than Enjoying Them
 
+![You Spend More Time Untangling Lights Than Enjoying Them](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The average American household spends 3-4 hours setting up holiday decorations and 45 minutes of that is untangling light strings. The cause: lights shoved into a garbage bag in January, pulled out in December. The fix: dedicated storage containers for every category of decoration, packed correctly once, and protected for 11 months in the attic or basement.
 
 ---
 
 ## The Category-Bin System
+
+![The Category-Bin System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **Bin 1 — Ornaments (ornament storage box, $25, Iris or ZOBER):** A plastic bin with 3-4 layers of divided cardboard trays. Each tray has 30-50 individual compartments sized for standard ball ornaments. This replaces the "ornaments in a cardboard box wrapped in tissue paper" method that results in 15% breakage per year. The divided tray is the ONLY safe method for glass ornaments. Capacity: 100-150 ornaments. For oversized ornaments, a single layer of bubble wrap in a separate bin.
 

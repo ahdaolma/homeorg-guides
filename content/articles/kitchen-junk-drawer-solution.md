@@ -12,11 +12,17 @@ keywords:
 
 ## The Junk Drawer Isn't the Problem. No Boundaries Is.
 
+![The Junk Drawer Isn't the Problem. No Boundaries Is.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 A junk drawer serves a legitimate function: a single location for the small, frequently-needed items that don't have an obvious home category. The problem isn't the drawer's existence — it's the lack of internal boundaries. An undivided junk drawer is a landfill. A divided junk drawer is a utility zone. The difference is an $8 tray.
 
 ---
 
 ## The 3-Category Junk Drawer Rule
+
+![The 3-Category Junk Drawer Rule](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 A junk drawer should hold exactly three categories of items. No more. If an item doesn't fit one of these three, it doesn't belong in the junk drawer — it belongs in a dedicated home elsewhere (office supplies go to the desk, hardware goes to the toolbox, batteries go to the battery organizer).
 

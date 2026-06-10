@@ -13,11 +13,17 @@ keywords:
 
 ## If You Can't See It, You Won't Wear It
 
+![If You Can't See It, You Won't Wear It](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 Horizontal stacking — folding clothes and stacking them in piles — is the default for 90% of dresser drawers. It's also the worst method. The item at the bottom of a stack of 8 t-shirts is invisible, inaccessible, and hasn't been worn since 2023. When you pull a shirt from the middle, the stack collapses. The KonMari vertical fold method solves this: every item stands upright, visible at a glance, grabbed without disturbing anything else.
 
 ---
 
 ## The KonMari Vertical Fold
+
+![The KonMari Vertical Fold](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 Fold each garment into a rectangle that stands on its own. The specific dimensions depend on the drawer height — a 4-inch deep drawer needs 4-inch-tall folded rectangles. General method for a t-shirt:
 
@@ -32,6 +38,9 @@ Practice on 3 shirts. After those 3, you'll have the muscle memory and each shir
 ---
 
 ## The One-Drawer-Per-Category Rule
+
+![The One-Drawer-Per-Category Rule](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 Each drawer holds exactly one category of clothing. Not "tops and the overflow from the other drawer." Each drawer = one category:
 - Drawer 1: T-shirts (everyday, short sleeve)

@@ -12,11 +12,17 @@ keywords:
 
 ## The Average Corner Cabinet Loses 40% of Its Volume to the "Black Hole"
 
+![The Average Corner Cabinet Loses 40% of Its Volume to the "Black Hole"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The back 12 inches of a corner cabinet is inaccessible without kneeling on the floor, reaching into darkness, and knocking over three things to grab one. Items migrate to the back over time like geological strata: the 2012 Crock-Pot at the bottom, the 2018 Instant Pot in the middle, and the pan you actually use wedged in front. The solution depends on whether your corner cabinet is a blind corner (one door, L-shaped interior) or a diagonal corner (angled door on the diagonal).
 
 ---
 
 ## Blind Corner Cabinet Solutions
+
+![Blind Corner Cabinet Solutions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 ### Tiered Lazy Susan ($30-$60)
 
@@ -31,6 +37,9 @@ A metal rack system that pulls out of the cabinet on smooth-glide rails, bringin
 ---
 
 ## Diagonal Corner Cabinet Solutions
+
+![Diagonal Corner Cabinet Solutions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 ### Two-Tier Lazy Susan ($40-$80)
 

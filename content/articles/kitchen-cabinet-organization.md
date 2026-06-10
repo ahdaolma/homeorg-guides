@@ -12,11 +12,17 @@ keywords:
 
 ## You Walk 2.5 Miles Per Year Just Looking for Things in Your Kitchen
 
+![You Walk 2.5 Miles Per Year Just Looking for Things in Your Kitchen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 A 2022 time-motion study by the National Kitchen and Bath Association found that the average cook walks 200-300 extra steps per meal due to poor kitchen organization — approximately 2.5 miles per year of unnecessary movement. The zone system groups items by function: everything for a specific task lives in the cabinet closest to where that task happens.
 
 ---
 
 ## The 5 Kitchen Zones
+
+![The 5 Kitchen Zones](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **Zone 1 — Prep Zone (Counter between sink and stove, cabinets above and below):** Cutting boards, knives (in a wall-mounted magnetic strip — $15, saves drawer space and keeps knives sharper than jumbled in a drawer), mixing bowls, measuring cups and spoons, colander, vegetable peeler. The cabinet above the prep counter holds: mixing bowls stacked by size (largest on bottom), measuring tools in a small bin. The drawer below: knives (if not on a magnetic strip), peelers, graters, kitchen shears, bench scraper. This is the most-used zone — everything at arm's reach from the prep surface.
 

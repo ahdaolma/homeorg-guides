@@ -12,11 +12,17 @@ keywords:
 
 ## Walking Across the House for Cleaning Supplies Wastes 40% of Cleaning Time
 
+![Walking Across the House for Cleaning Supplies Wastes 40% of Cleaning Time](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 Professional cleaners use one caddy per room type. They don't walk back to the kitchen for glass cleaner when they're cleaning the bathroom. They don't hunt for the wood polish when they're dusting the living room. Room-specific caddies deployed in 30 seconds eliminate "where is the..." from the cleaning vocabulary. The startup cost is $50-$80 in duplicate supplies. The time savings: 20-30 minutes per cleaning session.
 
 ---
 
 ## The 3-Caddy System
+
+![The 3-Caddy System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 ### Kitchen Caddy ($30 total)
 
@@ -57,6 +63,9 @@ Store in the living room coat closet or hallway closet.
 ---
 
 ## The Refill Station
+
+![The Refill Station](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 A single shelf in the laundry room, basement, or garage holds bulk refills. A 1-gallon jug of concentrated all-purpose cleaner ($12, Simple Green or Dr. Bronner's) refills the spray bottles 8-10 times. Buy concentrates, not individual spray bottles. One gallon of concentrate costs the same as 2-3 spray bottles but equals 8-10 bottles. Refill the caddy bottles as they run low and RETURN the bulk jug to the refill station immediately. The refill station is the supply depot, not the deployment zone.
 

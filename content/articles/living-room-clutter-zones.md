@@ -12,11 +12,17 @@ keywords:
 
 ## A Living Room Is Not a Storage Unit With a Couch
 
+![A Living Room Is Not a Storage Unit With a Couch](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The living room accumulates 4 types of clutter in 4 predictable zones. Each zone needs a specific solution — not "put it away" (there is no "away"), but a designated, permanent, convenient home for the items that naturally land there.
 
 ---
 
 ## Zone 1: The Coffee Table — The Horizontal Surface Magnet
+
+![Zone 1: The Coffee Table — The Horizontal Surface Magnet](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 See the Coffee Table Organization article for full details. Summary: a decorative tray ($10-$25) on the coffee table defines the territory. Everything ON the table goes in the tray. Everything outside the tray gets put away. Remotes in a small container inside the tray. 2-3 books maximum. No mail. No chargers. Nightly reset: everything back in the tray.
 

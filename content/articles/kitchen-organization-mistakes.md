@@ -12,6 +12,9 @@ keywords:
 
 ## 1. Storing Pots and Pans in a Deep Lower Cabinet (Without Pull-Outs)
 
+![1. Storing Pots and Pans in a Deep Lower Cabinet (Without Pull-Outs)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 **The mistake:** Stacking pots and pans in a deep cabinet. You kneel on the floor, reach into darkness, lift a stack of 4 pans to get the one at the bottom. The bottom pan gets used 1/3 as often because it's inaccessible.
 
 **The fix:** A pull-out pot and pan organizer ($30-$50, Lynk or Rev-A-Shelf). Two sliding wire racks that pull out independently. The lower rack holds pots; the upper rack holds pans and lids. Everything is accessible without kneeling. Installation: 4 screws into the cabinet base. 30 minutes. Alternative for renters: a freestanding pot rack ($40) that sits inside the cabinet and slides out.
@@ -19,6 +22,9 @@ keywords:
 ---
 
 ## 2. Storing Dishes Far From the Dishwasher
+
+![2. Storing Dishes Far From the Dishwasher](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **The mistake:** Plates in a cabinet on the opposite wall from the dishwasher. Unloading the dishwasher takes 2x as many steps.
 

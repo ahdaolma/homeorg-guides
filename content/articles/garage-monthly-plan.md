@@ -12,11 +12,17 @@ keywords:
 
 ## 30 Minutes a Month. 12 Tasks. The Difference Between a Garage and a Storage Unit.
 
+![30 Minutes a Month. 12 Tasks. The Difference Between a Garage and a Storage Unit.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 Garages devolve into chaos not because of one massive failure, but because of 365 days of "I'll deal with that later." A monthly 30-minute task interrupts the slow creep of clutter and seasonal gear accumulation. Here's the calendar.
 
 ---
 
 ## The 12-Month Garage Plan
+
+![The 12-Month Garage Plan](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **January:** Post-holiday purge. Break down and recycle cardboard boxes from holiday deliveries (they attract pests). Donate or store holiday decorations. Inventory: what did you actually use this year? Donate the rest.
 

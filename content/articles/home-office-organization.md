@@ -12,11 +12,17 @@ keywords:
 
 ## Working From Home Doesn't Mean Working From Chaos
 
+![Working From Home Doesn't Mean Working From Chaos](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 A home office that functions as: workspace (40 hrs/week), Zoom studio, personal admin center, and sometimes guest room requires three distinct zones. Without them, every task bleeds into every other — tax documents on your keyboard, coffee rings on the printer, the cat on your meeting notes. The 3-zone system fixes this in one afternoon.
 
 ---
 
 ## Zone 1: The Work Zone (60% of the room)
+
+![Zone 1: The Work Zone (60% of the room)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 Your desk, chair, monitor, keyboard, and immediate workspace. The desk faces a window or a wall — NOT the center of the room (facing a wall reduces visual distractions by 40%, per a 2023 Cornell ergonomics study). The desk holds ONLY current-project items. Everything else lives in the Supply Zone.
 

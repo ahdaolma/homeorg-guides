@@ -12,11 +12,17 @@ keywords:
 
 ## 342 Files on Your Desktop. You Open 12 of Them Monthly.
 
+![342 Files on Your Desktop. You Open 12 of Them Monthly.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 The average computer desktop contains 84 files and shortcuts (Microsoft user data, 2023). Add the Downloads folder (hundreds of PDFs, installers, random images) and the Documents folder (folders named "Misc," "Old Stuff," "Archive 2019 Final FINAL V2") and you have a digital filing cabinet that's less organized than a teenager's bedroom floor. The PARA method — created by productivity consultant Tiago Forte — organizes everything into 4 folders. No exceptions. No "I'll file it later."
 
 ---
 
 ## The 4 PARA Folders
+
+![The 4 PARA Folders](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 ### P — Projects (Active, Has a Deadline)
 
@@ -37,6 +43,9 @@ Completed projects and old areas. "2019-2023 Tax Returns," "Old Job — Pay Stub
 ---
 
 ## The 10-Minute Setup
+
+![The 10-Minute Setup](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 1. Create 4 folders in your Documents directory: "Projects," "Areas," "Resources," "Archives."
 2. Move EVERY existing file and folder into one of these 4. If a folder contains both active and inactive items, split it. The tax returns from 2019-2022 go to Archives. The 2025 tax prep folder stays in Projects.

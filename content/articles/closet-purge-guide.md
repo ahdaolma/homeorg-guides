@@ -21,6 +21,9 @@ The psychology: clothing clutter is deferred decisions. Every unworn item in you
 
 ## The Physical Sort
 
+![The Physical Sort](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 Take everything out. EVERYTHING. Touch each item. Sort into four categories:
 
 **1. Keep (worn in last 6 months).** Goes back after the closet is rebuilt.

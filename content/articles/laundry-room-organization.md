@@ -12,11 +12,17 @@ keywords:
 
 ## The Laundry Doesn't Stop. The System Needs to Be Fast.
 
+![The Laundry Doesn't Stop. The System Needs to Be Fast.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 Laundry is the only household chore with a continuous, unbatchable workflow — there's always more. A disorganized laundry room adds 10-15 minutes per load. An organized one saves 3-4 hours per week for a family of four. The four elements: the sort station, the supply shelf, the folding surface, and the lost sock solution.
 
 ---
 
 ## Element 1: The 3-Bin Sort Station
+
+![Element 1: The 3-Bin Sort Station](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 Three tall, narrow laundry bins ($15 each, Sterilite 1.5-bushel or IKEA Fyllen) side by side. Labels: "Lights/Whites," "Darks/Colors," "Towels/Sheets." Each family member sorts their own clothes AS THEY UNDRESS. The bin is 18 inches wide — fits between the washer and the wall in most laundry rooms. No more sorting on laundry day — the sorting happens in real-time, one outfit at a time. When a bin is full, it's a full load. Zero decision-making on laundry day.
 

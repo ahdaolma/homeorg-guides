@@ -13,11 +13,17 @@ keywords:
 
 ## 19 Items on the Counter. 5 Used Daily. 14 Create Visual Chaos.
 
+![19 Items on the Counter. 5 Used Daily. 14 Create Visual Chaos.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 A 2023 study by the cleaning brand Method found the average bathroom counter holds 19 items at any given time. Of those, only 5 are used daily: toothbrush, toothpaste, hand soap, face wash, moisturizer. The other 14 — hair products, makeup, razors, contact lens solution, medications, styling tools — are used once a week or less but permanently occupy prime visual real estate. The bathroom counter should be a calm, clean surface. Here's how to get from 19 to 5 in one hour.
 
 ---
 
 ## The 5-Item Rule
+
+![The 5-Item Rule](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 Only five items are allowed to live on the bathroom counter. The criteria: used at least once daily AND cannot be stored elsewhere. The five are typically: toothbrush + toothpaste (in a holder), hand soap, face wash, and one moisturizer. Everything else lives behind a door or in a drawer.
 
@@ -26,6 +32,9 @@ Only five items are allowed to live on the bathroom counter. The criteria: used 
 ---
 
 ## Where Everything Else Goes
+
+![Where Everything Else Goes](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 **Daily-use items that can move off the counter (toothbrush, floss, mouthwash):**
 - Wall-mounted toothbrush holder with cover ($15, simplehuman or OXO). Mounts with adhesive strips (renter-friendly) or screws. Keeps toothbrushes off the counter, protected from airborne bathroom particles (every flush aerosolizes bacteria — the toothbrush holder cover actually matters).

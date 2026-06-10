@@ -12,11 +12,17 @@ keywords:
 
 ## Your Closet Is 40% Clothes You Don't Wear and 30% Wasted Space
 
+![Your Closet Is 40% Clothes You Don't Wear and 30% Wasted Space](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 A 2023 UCLA study of 32 middle-class LA families found that the average closet contained 40% items that hadn't been worn or used in 12 months. Simultaneously, 30% of the closet's vertical space (above the hanging rod, below the shortest hanging items) was empty. The math: declutter 40%, use the empty 30%, and the same closet holds 70% more of what you actually use.
 
 ---
 
 ## Step 1: The Complete Empty-Out (2 Hours)
+
+![Step 1: The Complete Empty-Out (2 Hours)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 Remove EVERYTHING from the closet. Every hanger. Every shoebox. Every item on the top shelf. The empty closet reveals: how much space you actually have, what's broken (loose shelving, bent rods), and how much dust has accumulated. Vacuum the floor. Wipe the shelves. The empty closet is a blank canvas.
 
@@ -25,6 +31,9 @@ This step feels extreme and unnecessary. It is the single most important step. H
 ---
 
 ## Step 2: The 4-Pile Sort (1 Hour)
+
+![Step 2: The 4-Pile Sort (1 Hour)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 Touch every item. Place it in one of four piles:
 - **Keep (worn in the last 6 months):** Goes back in the closet after the system is built.

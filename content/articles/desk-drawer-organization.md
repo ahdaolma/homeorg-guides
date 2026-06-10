@@ -12,11 +12,17 @@ keywords:
 
 ## The Average Desk Drawer Is a Pen Graveyard
 
+![The Average Desk Drawer Is a Pen Graveyard](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 Open your desk drawer. Count the pens. If it's more than 5, you have a pen surplus. The rest are dry, broken, or hotel freebies from 2017. The average desk drawer contains: 23 pens (3 work), 4 pairs of scissors (all dull), 2 staplers (one jammed), receipts from 2022, and a lone AA battery of unknown charge. Fix: modular dividers, category zones, and the 5-minute drawer audit.
 
 ---
 
 ## The 3-Drawer System
+
+![The 3-Drawer System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 ### Drawer 1: Writing & Small Tools (Top Drawer, Most Accessed)
 
@@ -45,6 +51,9 @@ Hanging file folders in a file frame ($10, Office Depot). Categories:
 ---
 
 ## The 5-Minute Monthly Drawer Audit
+
+![The 5-Minute Monthly Drawer Audit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 Once a month: open each drawer. Remove anything that doesn't belong. Restock supplies that are low. Test all pens (toss the dry ones). This takes 5 minutes. The monthly audit prevents the slow creep of clutter that turns an organized drawer into a pen graveyard in 6 months.
 

@@ -12,11 +12,17 @@ keywords:
 
 ## Your Guest Room Should Feel Like a Hotel, Not Your Storage Unit
 
+![Your Guest Room Should Feel Like a Hotel, Not Your Storage Unit](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The average guest room functions as: guest room (4 nights/year), home office (daily), laundry folding station (weekly), and overflow storage (always). When guests arrive, they're sleeping in a room that's 60% storage bins and 40% bedroom. The fix: the room serves ONE function when guests are present. All other functions hide in the closet or an armoire.
 
 ---
 
 ## The 5-Star Guest Room Checklist
+
+![The 5-Star Guest Room Checklist](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **1. Empty closet (6-12 inches of hanging space + 5-6 empty hangers):** The single most welcoming gesture. A closet full of your off-season clothes says "you're sleeping in my storage unit." An empty rod with a few wooden hangers says "this space is yours." Clear 12 inches of rod space. Add 5-6 matching wooden hangers ($10 for 6, IKEA). A small luggage rack ($25, foldable) eliminates the "where do I put my suitcase" problem.
 

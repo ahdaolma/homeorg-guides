@@ -12,11 +12,17 @@ keywords:
 
 ## 30 Days, 20 Minutes a Day, One Decluttered Home
 
+![30 Days, 20 Minutes a Day, One Decluttered Home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 Full-home decluttering fails when it's attempted as a weekend marathon. 8 hours of continuous decluttering leads to decision fatigue by hour 3, emotional overwhelm by hour 5, and abandoning the project by hour 6. The 20-minutes-per-day method works because: 20 minutes is short enough that you'll actually start, and a single room per session eliminates the "where do I even begin" paralysis. Here's the 30-day checklist.
 
 ---
 
 ## Week 1: Kitchen
+
+![Week 1: Kitchen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 | Day | Task | Time |
 |---|---|---|
@@ -29,6 +35,9 @@ Full-home decluttering fails when it's attempted as a weekend marathon. 8 hours 
 ---
 
 ## Week 2: Bedroom + Closet
+
+![Week 2: Bedroom + Closet](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 | 6 | Closet: remove everything you haven't worn in 12 months. Seasonal items are the exception. Create donation bag. | 20 min |
 | 7 | Dresser drawers: one drawer at a time. Match socks, fold properly, donate items that don't fit. | 20 min |

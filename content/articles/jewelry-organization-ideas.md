@@ -12,11 +12,17 @@ keywords:
 
 ## Tangled Necklaces Are a Physics Problem, Not a Storage Problem
 
+![Tangled Necklaces Are a Physics Problem, Not a Storage Problem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 A fine chain necklace has zero structural rigidity. In a pile, it conforms to the shape of every other chain it touches. The solution is simple physics: give each necklace its own independent space with no contact with other chains. Four methods, ranked by accessibility.
 
 ---
 
 ## Method 1: The Velvet Tray (Daily Jewelry — $25)
+
+![Method 1: The Velvet Tray (Daily Jewelry — $25)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 A stackable velvet-lined jewelry tray with divided compartments. Necklaces in the long channels. Earrings in the small squares. Rings in the row of ring slots. This sits on your dresser or in your top drawer — the daily rotation jewelry lives here. Grab-and-go in under 5 seconds. Vlando or Sodynee brand on Amazon ($25 for a 2-layer stackable set). This is the only method that works for DAILY jewelry because it's the only one that's truly instant-access.
 

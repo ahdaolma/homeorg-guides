@@ -12,11 +12,17 @@ keywords:
 
 ## 25 Minutes of "I Don't Want to Wear That" Every Morning
 
+![25 Minutes of "I Don't Want to Wear That" Every Morning](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 The average parent spends 18 minutes per morning on clothing-related negotiations with young children. Over a school year: 3,240 minutes (54 hours). The 5-bin system eliminates the negotiation by front-loading all clothing decisions to Sunday afternoon — a 15-minute session that replaces 90 minutes of weekly morning conflict.
 
 ---
 
 ## The 5-Bin System
+
+![The 5-Bin System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 A hanging closet organizer with 5 shelves ($15, Simple Houseware). Label each shelf Monday through Friday. On Sunday afternoon, the child (with parental guidance — weather-appropriate, but the child chooses) selects 5 complete outfits: shirt, pants/skirt, underwear, socks. One stack per shelf. The child puts the outfits in the bins.
 

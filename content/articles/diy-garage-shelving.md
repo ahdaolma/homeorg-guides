@@ -12,11 +12,17 @@ keywords:
 
 ## $300 Metal Shelves vs. $100 DIY Wood Shelves — Same Capacity, 3x the Price
 
+![$300 Metal Shelves vs. $100 DIY Wood Shelves — Same Capacity, 3x the Price](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 Heavy-duty metal garage shelving (Gladiator, Husky, or Muscle Rack) costs $150-$300 per unit and holds 600-800 lbs per shelf. A DIY 2x4 + plywood shelf with the same dimensions (72"W x 24"D x 72"H, 4 shelves) costs $90-$110 in materials and holds 500+ lbs per shelf. The 2-hour build time saves $200. Here's the exact cut list and assembly.
 
 ---
 
 ## Materials (72x24x72, 4 Shelves)
+
+![Materials (72x24x72, 4 Shelves)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 | Item | Qty | Unit Price | Total |
 |---|---|---|---|
@@ -31,6 +37,9 @@ Cheaper with OSB instead of plywood ($16/sheet, total $80), but OSB sags under h
 ---
 
 ## Cut List (Have Home Depot Cut the Plywood for Free)
+
+![Cut List (Have Home Depot Cut the Plywood for Free)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 - **4 legs:** 2x4s at 72 inches
 - **8 front-to-back supports:** 2x4s at 21 inches (24" depth minus 1.5" for the front leg + 1.5" for the back leg = 21")

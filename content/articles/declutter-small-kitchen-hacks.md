@@ -12,11 +12,17 @@ keywords:
 
 ## 70 Square Feet, 3 Meals a Day, Infinite Clutter
 
+![70 Square Feet, 3 Meals a Day, Infinite Clutter](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The average apartment kitchen is 70-100 sq ft. The average suburban kitchen is 150-200 sq ft. Both feel too small because kitchens accumulate gadgets at 3x the rate of any other room. The solution isn't a bigger kitchen — it's deploying vertical space, auditing countertop real estate, and accepting that some "kitchen gadgets" don't deserve kitchen residency.
 
 ---
 
 ## Hack 1: The Appliance Audit — Reclaim 30% of Your Counter
+
+![Hack 1: The Appliance Audit — Reclaim 30% of Your Counter](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 Remove every appliance from the counter. For 2 weeks, only bring an appliance back to the counter when you actually use it. After 2 weeks, anything still off the counter gets stored in a cabinet (if used monthly) or donated (if never used).
 
@@ -25,6 +31,9 @@ Common outcomes: the toaster stays (daily), the coffee maker stays (daily), the 
 ---
 
 ## Hack 2: Magnetic Knife Strip ($15) — 12 Inches of Wall = 6 Inches of Counter Saved
+
+![Hack 2: Magnetic Knife Strip ($15) — 12 Inches of Wall = 6 Inches of Counter Saved](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 A 12-inch magnetic knife strip mounted on the wall or backsplash holds 5-6 knives. This eliminates the knife block (takes up 6x6 inches of counter, collects dust and bacteria in the slots). The strip is more sanitary (knives dry in open air), faster (grab any knife instantly without finding the right slot), and costs less than a knife block ($15 vs $40-$80). IKEA Hultarp ($10) or Modern Innovations ($15 on Amazon).
 

@@ -12,11 +12,17 @@ keywords:
 
 ## 200 Toys = Overwhelmed Child + Destroyed Room. 20 Toys = Focused Play + 5-Minute Cleanup.
 
+![200 Toys = Overwhelmed Child + Destroyed Room. 20 Toys = Focused Play + 5-Minute Cleanup.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.aK3gK1t7ETjoZF15WUUYtgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=efda0cbdc5292549c0f0073e1ff56d509bea42e50ac114f7ad487c566770596e&ipo=images)
+
+
 A 2018 University of Toledo study found that toddlers with fewer toys (4 vs 16) played with each toy twice as long and explored more creative uses. The toy industry has convinced parents that more toys = better development. The research says the opposite. Toy rotation is the system: 80% of toys are in storage at any given time. 20% are out and accessible. Every 2-3 weeks, rotate.
 
 ---
 
 ## The Toy Rotation System
+
+![The Toy Rotation System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.1hiNJUedLUmhWoOebfBsZgHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=73c98d56d272bb1733875dabb54ab45e5c735ad6de13630c1cd636a01723d53b&ipo=images)
+
 
 **Step 1 — Purge:** Remove broken toys, puzzles with missing pieces, Happy Meal garbage toys, and anything your child has outgrown. Donate the good-condition toys to a local shelter, preschool, or Buy Nothing group (Facebook). The remaining toys are the rotation inventory.
 

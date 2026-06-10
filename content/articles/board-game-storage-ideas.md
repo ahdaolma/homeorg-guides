@@ -12,11 +12,17 @@ keywords:
 
 ## Board Game Boxes Are Designed to Sell, Not to Store
 
+![Board Game Boxes Are Designed to Sell, Not to Store](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 Game manufacturers design boxes to look impressive on store shelves — not to survive 100 openings by enthusiastic players. The cardboard corners split. The insert (designed to hold unpunched punchboards) becomes useless once you punch out the pieces. The lid bows under the weight of stacking. A $60 game can become unplayable because a single critical token is lost. Good storage solves all three problems.
 
 ---
 
 ## Vertical vs Horizontal Stacking
+
+![Vertical vs Horizontal Stacking](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 **Horizontal stacking (traditional):** Games stacked flat, largest on the bottom. Problem: the bottom box bears the weight of everything above it. After 6 months, the bottom box lid is concave. Also: to get the game at the bottom, you unstack everything above it. This discourages playing that game.
 
@@ -25,6 +31,9 @@ Game manufacturers design boxes to look impressive on store shelves — not to s
 ---
 
 ## The Plastic Bag System for Game Pieces
+
+![The Plastic Bag System for Game Pieces](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 When you first open a new game, discard the factory insert. It's useless once the punchboards are punched. Replace with:
 

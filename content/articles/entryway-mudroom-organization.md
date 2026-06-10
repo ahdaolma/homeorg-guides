@@ -12,11 +12,17 @@ keywords:
 
 ## Clutter Enters Your Home Through ONE Door. Stop It There.
 
+![Clutter Enters Your Home Through ONE Door. Stop It There.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VkYKW9wtuDk8KSfz6Qv6vgHaLH%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=a2e1653045e4986705ab266c2a4ade64cca835badeaf0150eb697b0fb3658529&ipo=images)
+
+
 Every item that clutters your living room, kitchen, and bedroom entered through the front door (or garage entrance). Mail, packages, shoes, coats, backpacks, pet leashes, sports equipment — all cross the threshold and scatter to their eventual clutter destinations. The landing strip — a 3-5 foot zone immediately inside the door — catches everything at the point of entry.
 
 ---
 
 ## The 4 Elements of a Landing Strip
+
+![The 4 Elements of a Landing Strip](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.rtYqoMdewcfYE-9QM8ZPpQHaLE%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5afcbd408d7da37fa62c7ddc9ec4be9e03f187698f6214d19bffa48f5f867c25&ipo=images)
+
 
 ### 1. A Surface (Console Table, Shelf, or Wall-Mounted Tray)
 
@@ -43,5 +49,8 @@ A wall-mounted file sorter ($15, Simple Houseware 3-tier) or a small basket ($10
 ---
 
 ## The "One Touch" Rule
+
+![The "One Touch" Rule](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.VI4SLIJZgcGoa4yZSvRTZgHaNK%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=ff4f7d9caf4c877b4bdf02258ab5825440643d5009870b29868f672ff0dfa3f6&ipo=images)
+
 
 Handle every incoming item ONCE. Mail: open it over the recycling bin, shred/recycle the junk, put the action items in the Action folder. Packages: unbox at the door, break down the box for recycling immediately, put the item away. The entryway is the processing zone. The rest of the house is the living zone. The two don't mix.

@@ -12,11 +12,17 @@ keywords:
 
 ## The Coffee Table Is a Horizontal Surface — Gravity Attracts Clutter
 
+![The Coffee Table Is a Horizontal Surface — Gravity Attracts Clutter](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The coffee table is the living room's primary horizontal surface. According to gravity (and human behavior), it accumulates: remote controls (3-5 of them), mail, magazines, coasters, a candle, yesterday's coffee mug, reading glasses, the phone charger, a random screwdriver from when you tightened the cabinet hinge, and the book you're "currently reading" from 3 months ago. The average coffee table has 12-17 items on it. A styled coffee table has 3-5 items arranged intentionally.
 
 ---
 
 ## The Tray Method: Define the Territory
+
+![The Tray Method: Define the Territory](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 A decorative tray ($10-$25, Target or HomeGoods) — 12x16 inches, any material (wood, metal, acrylic, woven) — placed in the center of the coffee table. Everything on the table goes INSIDE the tray. Everything outside the tray gets put away.
 
@@ -38,6 +44,9 @@ The tray is a psychological boundary. It says: "Items in this defined space are 
 ---
 
 ## The Remote Control Solution
+
+![The Remote Control Solution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 Step 1: Throw away remotes for devices you no longer use (the DVD player from 2010, the old cable box). Step 2: Program a universal remote ($15) to control: TV, soundbar, streaming device. This eliminates 3 remotes. Step 3: The 1-2 remaining remotes live in a small tray or box on the coffee table. A decorative tissue box cover ($10, Amazon) turned sideways becomes a remote caddy that hides the remotes when not in use.
 

@@ -12,11 +12,17 @@ keywords:
 
 ## The $2,500 Closet Remodel vs. The $150 DIY Solution
 
+![The $2,500 Closet Remodel vs. The $150 DIY Solution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 A custom closet company (California Closets, Closets by Design) charges $2,000-$5,000 for a reach-in closet system. The same result — more storage, better access, visual calm — costs $150-$300 in products from Amazon, Target, and The Container Store. The difference is permanent installation (custom systems are screwed into the wall) vs. modular flexibility (DIY systems can be reconfigured when your needs change). Both work. One costs 10x more.
 
 ---
 
 ## Tier 1: Budget Essentials (Under $25 Each)
+
+![Tier 1: Budget Essentials (Under $25 Each)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 **Amazon Basics Velvet Hangers (50-pack, $25):** The single highest-impact closet upgrade. 1/4-inch profile (vs 1/2-inch for plastic tube hangers) increases rod capacity by 40-43%. Velvet coating prevents slipping. Black color creates visual uniformity. These have been tested side-by-side with $2/each Huggable Hangers — identical performance, half the price. Replace ALL hangers in one purchase. The visual difference between a closet with mismatched hangers and one with uniform velvet hangers is larger than any other single change.
 
@@ -27,6 +33,9 @@ A custom closet company (California Closets, Closets by Design) charges $2,000-$
 ---
 
 ## Tier 2: Mid-Range Upgrades ($25-$75)
+
+![Tier 2: Mid-Range Upgrades ($25-$75)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 **Hanging sweater organizer (5 shelves, $25, Simple Houseware or MISSLO):** Hangs from the closet rod, provides 5 horizontal shelves for folded items. Holds 15-20 sweaters or 10-12 pairs of jeans. The shelves are fabric (breathable — plastic versions trap moisture and musty smells develop within months). This is a permanent solution for heavier items that stretch on hangers (sweaters, knits) or don't need hanging (jeans, sweatpants).
 

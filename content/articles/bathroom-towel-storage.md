@@ -13,11 +13,17 @@ keywords:
 
 ## Wet Towels on the Floor Are a Mold Factory — Not a "I'll Hang It Later" Situation
 
+![Wet Towels on the Floor Are a Mold Factory — Not a "I'll Hang It Later" Situation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 A wet towel folded and left on the floor or a hook creates the perfect environment for mildew: warm, damp, dark, low airflow. In 24-48 hours, that musty towel smell sets in — caused by bacteria and mold feeding on the organic material (dead skin cells) in the towel. The towel now needs to be washed, and every wash costs $0.50-$1.00 in water, electricity, detergent, and wear on the towel. A family of four washing towels an extra time per week because they mildewed spends $100-$200/year. The fix: every towel has a drying location.
 
 ---
 
 ## Solutions by Bathroom Size
+
+![Solutions by Bathroom Size](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 ### Tiny Bathroom (Under 40 sq ft — Powder Room, Apartment Bath)
 
@@ -42,6 +48,9 @@ A wet towel folded and left on the floor or a hook creates the perfect environme
 ---
 
 ## The "One Hook Per Person" Rule
+
+![The "One Hook Per Person" Rule](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 Each person in the household gets ONE hook for their active towel. The hook is labeled (removable wall decal or a letter initial). The towel lives on the hook between uses. No hook = towel on the floor. Labeled hook = towel always returned to the same place. This solves the "whose towel is this on the floor" argument permanently. Use Command brushed nickel hooks ($12 for 2) — each holds 5 lbs, removes cleanly.
 

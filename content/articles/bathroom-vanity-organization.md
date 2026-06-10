@@ -13,11 +13,17 @@ keywords:
 
 ## Your Vanity Cabinet Is Caveman Storage — One Big Pile
 
+![Your Vanity Cabinet Is Caveman Storage — One Big Pile](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.EHyTibtG6lbh16-Bgi_YrwHaG1%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=9d2245a91ea679bfdc4aca6734a6886153c12ebf156960e54c798b12107b9179&ipo=images)
+
+
 The standard under-sink cabinet is a 24x24-inch cavern with a U-shaped pipe in the middle. Most people treat it like a single container: throw everything in, shut the door, hope nothing falls out. This wastes approximately 60% of the available storage volume — the space around, above, and in front of the P-trap is completely unused. With the right organizers, a 24-inch vanity can hold everything a bathroom needs.
 
 ---
 
 ## The Under-Sink Zone System
+
+![The Under-Sink Zone System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.WFlD-Lcc56brcLZIULYq2gHaGc%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=8739b3e41bf8a9195d0afd1da04752eef2023619fbf6c62b5a68c240f8670140&ipo=images)
+
 
 ### Zone 1: The Floor (Heavy and Tall Items)
 
@@ -38,6 +44,9 @@ If your vanity has a drawer, it should hold ONLY your daily routine items. A cus
 ---
 
 ## The Medicine Cabinet Maximizer
+
+![The Medicine Cabinet Maximizer](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.ygcI9g4N1bgptPF0vkv2uwHaKV%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=f76f81ad5237086b48562a095fc6de805a82c1fbb1555873cd3b642239b57165&ipo=images)
+
 
 If your vanity has a medicine cabinet above it: install magnetic strips ($10, Amazon — search "magnetic strip for medicine cabinet") on the inside of the cabinet door. Metal grooming tools (tweezers, nail clippers, bobby pins, small scissors) stick to the strip. This turns the inside of the door into usable storage and keeps tiny tools from falling into the sink when you open the cabinet. The strips are 12 inches long and hold approximately 10-12 metal items.
 
