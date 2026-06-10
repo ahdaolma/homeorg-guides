@@ -1,5 +1,6 @@
 import { getAllArticles, getCategories } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
+import PopularArticles from '@/components/PopularArticles';
 
 const rooms = [
   { emoji: '🛋️', name: 'Living Room', count: 15 },
@@ -110,6 +111,8 @@ export default async function HomePage() {
         </section>
 
         <AdSlot id='home-middle' />
+
+        <PopularArticles />
 
         {/* Latest */}
         <section className='my-16'>
