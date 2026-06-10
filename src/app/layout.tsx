@@ -3,6 +3,7 @@ import "./globals.css";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
+  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
   metadataBase: new URL("https://homeorg-guides.vercel.app"),
   title: { default: "HomeOrg Guides | Organize Your Space 2026", template: "%s | HomeOrg Guides" },
   description: "Transform your home with expert organization guides. Decluttering strategies, storage solutions, and room-by-room systems.",
