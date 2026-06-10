@@ -1,89 +1,45 @@
----
-title: "How to Do a Closet Purge: The Complete Decluttering Checklist"
-excerpt: "A room-by-room closet purge guide with the 12-month rule and exception categories."
+﻿---
+title: "Closet Purge Guide: The 6-Month Rule, Sentimental Items & Where to Donate (2026)"
+excerpt: "Declutter your closet in 3 hours with the 6-month rule. A complete guide to deciding what stays, what goes, and exactly where to donate, sell, or recycle every category of clothing."
 category: "Closet"
-date: "2026-05-24"
-readTime: 7
+date: "2026-06-10"
+readTime: 6
 keywords:
-  - closet purge
-  - declutter closet
-  - wardrobe declutter
+  - closet purge guide
+  - closet declutter
+  - clothes donation
+  - how to declutter closet
 ---
 
-## Why How to Do a Closet Purge Matters
-![Related image](https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=800&h=400&fit=crop)
+## The 6-Month Rule Works Because Clothing Habits Don't Lie
 
-According to a 2025 survey by the National Association of Professional Organizers, 76% of closet owners report feeling stressed by disorganization. The average person spends 14 minutes per day searching for items in their closet - over 236 hours per year.
+If you haven't worn it in 6 months, you won't wear it in the next 6. Exceptions: seasonal items (winter coats in summer, swimsuits in winter — these were worn in the last 6 months of their respective seasons), formal wear (wedding/funeral attire — you may not need it for 18 months, but when you need it, you NEED it), and one "maybe someday" item per category (one aspirational dress, one pair of goal-weight jeans — framed as goals, not guilt). Everything else: the 6-month rule is absolute.
 
-### Case Study: Jessica in NYC
-Jessica in NYC cut morning routine from 45 to 18 minutes.
+The psychology: clothing clutter is deferred decisions. Every unworn item in your closet is a decision you've avoided making — "I might wear this someday," "This was expensive," "Someone gave this to me." The purge confronts every deferred decision at once, in 3 hours. The emotional discomfort of discarding 40% of your closet lasts approximately 48 hours. The daily relief of opening a closet with only clothes you love and wear lasts forever.
 
-> "I can see every outfit now. No more trying on three things."
+---
 
-## Core Principles
-**Everything Needs a Home:** Items without designated spots cause clutter. Tidy becomes automatic.
-**Vertical Space:** Using walls and door backs increases storage capacity by 40-70%.
-**Frequency Dictates Placement:** Daily items at arm's reach, seasonal items stored away.
-**Visible Storage:** Clear containers reduce duplicate purchasing by 28% (Cornell University).
+## The Physical Sort
 
-## Step-by-Step Process
-![Related image](https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=400&fit=crop)
-### Step 1: Empty Everything (45-90 min)
-Remove all items. Professionals find 20 forgotten items per session on average.
+Take everything out. EVERYTHING. Touch each item. Sort into four categories:
 
-### Step 2: Sort (30-60 min)
-Keep, Donate, Sell, or Trash. The 12-month rule has 87% predictive accuracy.
+**1. Keep (worn in last 6 months).** Goes back after the closet is rebuilt.
 
-### Step 3: Measure and Plan (20-30 min)
-Measure every surface. Sketch layout. Buy organizers that fit.
+**2. Donate (good condition, unworn 6+ months).** 
+- **Everyday clothing (t-shirts, jeans, sweaters):** Goodwill, Salvation Army, or local shelters. Women's professional clothing: Dress for Success (national nonprofit — they provide interview outfits to low-income women). Men's professional clothing: Career Gear. Winter coats: One Warm Coat (national coat drive finder at onewarmcoat.org). All donations are tax-deductible — take a photo of the donation receipt for your tax preparer.
+- **Designer/luxury items:** The RealReal (online consignment, 55-70% commission), Poshmark (you set the price, 20% commission), local consignment shops (40-50% commission, no shipping hassle). The tax benefit of donating a $200 dress is approximately $50 (at a 25% marginal tax rate). Selling on Poshmark for $80 (after 20% commission) nets $64. If the item is worth more than $50 resale, sell it. Under $50, donate and take the tax deduction — the time spent listing, shipping, and managing a Poshmark sale isn't worth it for low-value items.
 
-### Step 4: Install Storage (1-3 hours)
-Shelf dividers, drawer organizers, wall storage, labeled bins.
+**3. Recycle/Trash (damaged beyond wear).**
+- H&M (any store): accepts any brand of clothing for textile recycling, any condition. You get a 15% off coupon per bag. The textiles are sorted — wearable items go to secondhand markets, unwearable items become industrial rags or insulation.
+- Nike (select stores): accepts athletic shoes for their Reuse-A-Shoe program, which grinds shoes into material for playground surfaces and running tracks.
+- Bras: donate to Free the Girls (provides bras to sex trafficking survivors in developing countries to sell in local markets) or I Support the Girls (distributes bras and menstrual products to homeless women in the US).
 
-### Step 5: Place by Frequency (30-60 min)
-Most-used items in most accessible spots.
+**4. Sentimental (irreplaceable, genuinely emotional).** 
+- Wedding dress: professionally cleaned and preserved ($200-$300, David's Bridal or local preservationist). Store in the acid-free preservation box, not a plastic bag (plastic traps moisture and yellows the fabric over decades).
+- Letterman jacket, military uniform, deceased relative's clothing: vacuum-sealed storage bag ($15 for 3, SpaceSaver brand). Place IN an opaque storage bin labeled with the person's name and relationship. Store in climate-controlled space (attic heat and basement moisture destroy textiles over 10+ years). If storing in an attic or basement is unavoidable, use silica gel packets ($10 for a box of 20) in the bin to absorb moisture.
 
-### Step 6: Label Everything (15-30 min)
-Labeled systems stay organized 3x longer.
+---
 
-## Common Mistakes
-1. Buying organizers before measuring
-2. Organizing before decluttering
-3. Over-complicating systems that fail within weeks
-4. Ignoring vertical space
-5. No maintenance routine
+## The "Maybe" Pile Rule
 
-## Maintenance
-A 5-minute weekly reset keeps the system functioning indefinitely.
-
-## Key Takeaways
-How to Do a Closet Purge is about creating systems that work for real life. Start with emptying and sorting. Time savings compound over weeks. An organized closet reclaims your time and mental energy.
-
-## Frequently Asked Questions
-
-### What is the most important thing to know about Closet Purge Guide?
-
-The most important aspect of closet purge guide is understanding the fundamentals before attempting advanced techniques. Start with the basics, practice consistently, and build your skills progressively.
-
-### How long does it take to see results?
-
-Most people begin seeing noticeable improvements within 2-4 weeks of consistent effort. The key is regular practice and attention to detail rather than rushing through the process.
-
-### What are the biggest mistakes beginners make?
-
-The most common mistakes include skipping preparation steps, rushing through important details, using incorrect tools or methods, and giving up too quickly when results are not immediate.
-
-### Do I need special equipment or tools?
-
-While quality tools can help, most techniques can be performed with basic, readily available equipment. Start with what you have and upgrade as your skills and needs grow.
-
-### Is professional help worth it?
-
-For complex situations or when you feel stuck, consulting an expert can save significant time and prevent costly mistakes. Many professionals offer affordable consultations.
-
-
-## Related Articles
-
-- [Handbag and Purse Storage: Protect Your Investment While Staying Organized](/articles/handbag-purse-storage)
-- [The Ultimate Closet Organization System: By Category Color and Season](/articles/closet-organization-system)
-- [Kids Closet Organization: Make Mornings 50 Percent Faster](/articles/kids-closet-morning-routine)
+For items you genuinely cannot decide on: place them in an opaque bin labeled "Purge Decision — [DATE 3 MONTHS FROM TODAY]." Set a calendar reminder for that date. Put the bin in a closet or storage area — NOT in your daily closet. If you retrieve an item from the bin in the next 3 months, it stays. If you don't — and you won't for 90% of the items — donate the bin's contents without reopening it. The 3-month timer eliminates the emotional back-and-forth of "should I keep this?" No — the timer decides. You just execute.
