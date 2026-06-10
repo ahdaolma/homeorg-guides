@@ -3,17 +3,10 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://homeorg-guides.vercel.app"),
-  title: {
-    default: "Home Organization Guides | Expert Decluttering Tips & Ideas",
-    template: "%s | HomeOrg Guides",
-  },
-  description: "Expert home organization guides, decluttering tips, and storage solutions.",
-  keywords: ["home organization","decluttering","storage solutions","organizing tips","closet organization","kitchen organization","garage storage","minimalist home"],
-  openGraph: {
-    type: "website", siteName: "HomeOrg Guides",
-    title: "Home Organization Guides | Expert Decluttering Tips",
-    description: "Expert home organization guides and decluttering tips for every room.",
-  },
+  title: { default: "HomeOrg Guides | Organize Your Space 2026", template: "%s | HomeOrg Guides" },
+  description: "Transform your home with expert organization guides. Decluttering strategies, storage solutions, and room-by-room systems.",
+  keywords: ["home organization","decluttering","storage","closet organization","kitchen organization"],
+  openGraph: { type: "website", siteName: "HomeOrg Guides", title: "HomeOrg Guides | Organize Better", description: "Room-by-room organization guides that actually work." },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -22,25 +15,30 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6600381860016497" crossOrigin="anonymous" />
       </head>
-      <body className="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
-        <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
-          <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-            <a href="/" className="text-xl font-bold text-blue-600">HomeOrg Guides</a>
-            <nav className="flex gap-6 text-sm">
-              <a href="/" className="hover:text-blue-600">Home</a>
-              <a href="/#categories" className="hover:text-blue-600">Categories</a>
-              <a href="/#latest" className="hover:text-blue-600">Latest</a>
+      <body className="min-h-screen flex flex-col">
+        <header className="sticky top-0 z-50 backdrop-blur-xl bg-[#0F172A]/95 border-b border-slate-700/30">
+          <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+            <a href="/" className="flex items-center gap-2">
+              <span className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-lg">📦</span>
+              <span className="text-lg font-bold tracking-tight text-slate-100">HomeOrg</span>
+            </a>
+            <nav className="flex gap-8 text-sm font-medium">
+              <a href="/" className="text-slate-400 hover:text-blue-400 transition-colors">Home</a>
+              <a href="/articles" className="text-slate-400 hover:text-blue-400 transition-colors">Guides</a>
+              <a href="/#rooms" className="text-slate-400 hover:text-blue-400 transition-colors">Rooms</a>
             </nav>
           </div>
         </header>
         <main className="flex-1">{children}</main>
-        <footer className="bg-white border-t border-gray-200 py-8 mt-16">
-          <div className="max-w-6xl mx-auto px-4 text-center text-sm text-gray-500">
-            <p>© {new Date().getFullYear()} HomeOrg Guides. All rights reserved.</p>
-            <div className="flex justify-center gap-4 mt-2">
-              <a href="/privacy" className="hover:text-blue-600">Privacy Policy</a>
-              <a href="/terms" className="hover:text-blue-600">Terms</a>
-              <a href="/sitemap.xml" className="hover:text-blue-600">Sitemap</a>
+        <footer className="border-t border-slate-700/30 bg-[#0A0F1A] py-12 mt-20">
+          <div className="max-w-6xl mx-auto px-6 text-center">
+            <div className="flex items-center justify-center gap-2 mb-3">
+              <span className="w-6 h-6 bg-blue-600 rounded flex items-center justify-center text-xs">📦</span>
+              <span className="font-bold text-slate-300">HomeOrg Guides</span>
+            </div>
+            <div className="flex justify-center gap-6 text-sm text-slate-600">
+              <a href="/privacy" className="hover:text-blue-400">Privacy</a>
+              <a href="/terms" className="hover:text-blue-400">Terms</a>
             </div>
           </div>
         </footer>
