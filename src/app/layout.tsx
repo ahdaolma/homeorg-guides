@@ -14,7 +14,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-      <meta name="google-site-verification" content="Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6600381860016497" crossOrigin="anonymous" />
       </head>
       <body className="min-h-screen flex flex-col">
